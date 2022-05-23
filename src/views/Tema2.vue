@@ -8,7 +8,7 @@
         span 2
       h1 Seguimiento y evaluación
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-4
+      .col-lg-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/tema2/img1.png', style="width: 350px").m-auto
       .col-lg-6
@@ -20,17 +20,17 @@
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     #t_2_1.pt-5
-    .titulo-segundo.color-secundario
+    .titulo-segundo.color-secundario(data-aos="fade-right")
       h2 2.1 Tipo y técnicas de evaluación y monitoreo
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6.mb-4.mb-lg-0
         .dual-txt-deco3
-          p(style="position: relative; z-index: 1;") La evaluación y monitoreo son un modelo de técnicas que reúnen características esenciales y contribuyen a la aplicación de acciones y actividades que se fomentan en la ganadería de carne. Los modelos de las BPG en Colombia se basan en la implementación y mejora de las actividades ganaderas de países más desarrollados, puesto que a nivel nacional se presenta un déficit en el sector agropecuario que no le permite la creación de un modelo único ganadero.
+          p(data-aos="fade-right")(style="position: relative; z-index: 1;") La evaluación y monitoreo son un modelo de técnicas que reúnen características esenciales y contribuyen a la aplicación de acciones y actividades que se fomentan en la ganadería de carne. Los modelos de las BPG en Colombia se basan en la implementación y mejora de las actividades ganaderas de países más desarrollados, puesto que a nivel nacional se presenta un déficit en el sector agropecuario que no le permite la creación de un modelo único ganadero.
       .col-lg-4
         figure
-          img(src='@/assets/curso/tema2/img1.svg', style="width: 350px").m-auto
+          img(data-aos="fade-left")(src='@/assets/curso/tema2/img1.svg', style="width: 350px").m-auto
     p.mb-5 En cuanto a las técnicas de evaluación y monitoreo tenga presente:
-    AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--amarilla")
+    AcordionA(data-aos="fade-right").mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--amarilla")
       .row(titulo="BPG").justify-content-center
         .col-lg-8.mb-4.mb-md-0
           p BPG: las empresas y fincas ganaderas deben aplicar las Buenas Prácticas Ganaderas para aspirar al proceso de certificación del ICA.
@@ -71,7 +71,7 @@
             .col
               p.mb-0 Las variables de evaluación de la cadena productiva de ganado de carne son pilares fundamentales del correcto funcionamiento de la empresa ganadera, ayudan a direccionar el establecimiento al buen manejo y cumplimiento de BPG en la ganadería de carne colombiana.
     p.mb-5 Reconozca, a continuación, los tipos de técnicas de evaluación y monitoreo aplicables en el proceso de producción de bovinos de carne:
-    SlyderF(columnas="col-lg-6 col-xl-4")
+    SlyderF(columnas="col-lg-6 col-xl-4")(data-aos="fade-left")
       .tarjeta.color-acento-botones.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
@@ -110,15 +110,15 @@
         p.text-center Fase en la que se busca identificar una problemática y buscar una solución temprana.
     Separador
     #t_2_2
-    .titulo-segundo.color-secundario
+    .titulo-segundo.color-secundario(data-aos="fade-right")
       h2 2.2 Metodologías
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-5.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/tema2/img2.png', style="width: 450px").m-auto
+          img(data-aos="fade-right")(src='@/assets/curso/tema2/img2.png', style="width: 450px").m-auto
       .col-lg-5
         .dual-txt-deco4
-          p(style="position: relative; z-index: 1;") Son procedimientos, métodos o reglas con que se recopila información y/o se transmite el saber. En tal sentido, las BPG buscan implementar conocimiento bajo procesos que procuran el cuidado del medio ambiente, del personal y del producto final, ver figura.
+          p(data-aos="fade-left")(style="position: relative; z-index: 1;") Son procedimientos, métodos o reglas con que se recopila información y/o se transmite el saber. En tal sentido, las BPG buscan implementar conocimiento bajo procesos que procuran el cuidado del medio ambiente, del personal y del producto final, ver figura.
     .titulo-sexto.color-acento-contenido
       p.mb-0 #[b Figura 2]. BPG-VC en la producción.
     figure.mb-5
@@ -127,7 +127,7 @@
     ImagenInfografica.color-secundario.mb-5
       template(v-slot:imagen)
         figure
-          img(src='@/assets/curso/tema2/img16.svg')
+          img(src='@/assets/curso/tema2/img16.svg')(data-aos="fade-right")
       .tarjeta.tarjeta--amarilla2.p-3(x="12%" y="100%" numero="+")
         p.mb-0 Es una recopilación de información, correspondiente a manuales, normas, documentos y certificaciones de toda la cadena productiva de carne, con la cual se hace un comparativo entre BPG y lo que se está implementando en la empresa. Luego se buscan mejoras y se realizan los ajustes para cumplir con todo lo exigido.
       .tarjeta.tarjeta--amarilla2.p-3(x="38%" y="100%" numero="+")
@@ -138,17 +138,17 @@
         p.mb-0 Después de implementar las BPG se realiza la evaluación; esta ofrece la información correspondiente y se verifica el cumplimiento de los objetivos cada tres o seis meses, ya que esta suele encontrarse en constante cambio.
     Separador
     #t_2_3
-    .titulo-segundo.color-secundario
+    .titulo-segundo.color-secundario(data-aos="fade-right")
       h2 2.3 Indicadores de gestión
     .row.aligm.items-center
       .col-lg-8
-        p Son resultados medibles de los insumos, acciones y procesos, los cuales muestran a una empresa, los logros, avances y posibilidades de mejora continua, todo ello, mediante el análisis de los mismos.
+        p(data-aos="fade-right") Son resultados medibles de los insumos, acciones y procesos, los cuales muestran a una empresa, los logros, avances y posibilidades de mejora continua, todo ello, mediante el análisis de los mismos.
         .cajon.color-primario.p-4
           p.mb-0 Los indicadores de gestión marcan, entre otras, la viabilidad, el estado financiero y administrativo de la empresa, asegurando la satisfacción del cliente y de las partes interesadas.
       .col-lg-4
         figure.mb-5
-          img(src='@/assets/curso/tema2/img17.svg', style="width: 450px").m-auto
-    TabsC.color-primario.mb-5
+          img(data-aos="fade-left")(src='@/assets/curso/tema2/img17.svg', style="width: 450px").m-auto
+    TabsC.color-primario.mb-5(data-aos="fade-left")
       .py-3.py-md-4(titulo="¡Atención!").bg-color3
         .row
           .col-12.p-4
@@ -185,15 +185,15 @@
           p.text-center 4. Definir los indicadores correctos.
     Separador
     #t_2_4
-    .titulo-segundo.color-secundario
+    .titulo-segundo.color-secundario(data-aos="fade-right")
       h2 2.4 Procedimientos e instrumentos
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4.mb-4.mb-lg-0
         figure
-          img(src='@/assets/curso/tema2/img22.svg', style="width: 450px").m-auto
+          img(data-aos="fade-right")(src='@/assets/curso/tema2/img22.svg', style="width: 450px").m-auto
       .col-lg-4
         .dual-txt-deco3
-          p(style="position: relative; z-index: 1;") Son técnicas para llevar a cabo una evaluación continua y seguimiento sistemático de información, acorde a los objetivos que tenga planteada la empresa ganadera.
+          p(data-aos="fade-left")(style="position: relative; z-index: 1;") Son técnicas para llevar a cabo una evaluación continua y seguimiento sistemático de información, acorde a los objetivos que tenga planteada la empresa ganadera.
     p.text-center.mb-5 Los procedimientos para la #[b certificación de BPG en bovinos de carne] son:
     .tarjeta.tarjeta--amarilla3.p-4.mb-5
       SlyderA(tipo="b")
