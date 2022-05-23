@@ -1,8 +1,8 @@
-# **sena-base-2021 v5.1.0**
+# **Evaluación y monitoreo en la implementación de BPG para bovinos de carne**
 
-## **https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/**
+## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF3_BUENAS_PRACTICAS_GANADERAS_BOVINOS_CARNE/](https://ecored-sena.github.io/CF3_BUENAS_PRACTICAS_GANADERAS_BOVINOS_CARNE/)
 
 #
 
