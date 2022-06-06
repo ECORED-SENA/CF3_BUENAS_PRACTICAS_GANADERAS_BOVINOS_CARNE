@@ -10,10 +10,10 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-4(data-aos="fade-right")
         figure
-          img(src='@/assets/curso/tema2/img1.png', style="width: 350px").m-auto
+          img.mb-5(src='@/assets/curso/tema2/img1.png', style="width: 350px").m-auto
       .col-lg-6
         .dual-txt-deco2
-          p(style="position: relative; z-index: 1;") La implementación de las BPG en la producción de carne exige un compromiso constante de los ganaderos; por ello, desarrollar seguimiento y evaluación son un conjunto de actividades de intervención clave con las que se recopila la información, de una manera sistemática, de cada una de las dependencias del proyecto, durante toda la trayectoria hasta su fase final.
+          p.mb-5(style="position: relative; z-index: 1;") La implementación de las BPG en la producción de carne exige un compromiso constante de los ganaderos; por ello, desarrollar seguimiento y evaluación son un conjunto de actividades de intervención clave con las que se recopila la información, de una manera sistemática, de cada una de las dependencias del proyecto, durante toda la trayectoria hasta su fase final.
         .cajon.color-primario.p-4
           p.mb-0 A continuación, se presentan los objetivos más importantes de la evaluación y el seguimiento en los procesos de producción de bovinos de carne en el marco de las BPG:
     figure.mb-5
@@ -35,33 +35,33 @@
       .row(titulo="BPG").justify-content-evenly.align-items-center
         .col-lg-8.mb-4.mb-md-0
           p BPG: las empresas y fincas ganaderas deben aplicar las Buenas Prácticas Ganaderas para aspirar al proceso de certificación del ICA.
-        .col-lg-2.mb-4.mb-md-0
+        .col-6.col-lg-2.mb-4.mb-md-0
           figure
             img(src='@/assets/curso/tema2/img2.svg')
       .row(titulo="Refuerzo del proceso productivo").justify-content-evenly.align-items-center
         .col-lg-8.mb-4.mb-md-0
           p Refuerzo del proceso productivo: los tipos de monitoreo y evaluación sirven de apoyo para la recolección sistemática de información de las BPG durante el desarrollo del proyecto.
-        .col-lg-2
+        .col-6.col-lg-2.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/tema2/img3.svg', style="width: 141px").m-auto
-      .row(titulo="Clasificación del propósito").justify-content-evenly
+            img(src='@/assets/curso/tema2/img3.svg')
+      .row(titulo="Clasificación del propósito").justify-content-evenly.align-items-center
         .col-lg-8.mb-4.mb-md-0
           p Tanto el monitoreo como la evaluación permiten la clasificación del propósito y la relación costo beneficio de la empresa de carne bovina.
-        .col-lg-2
+        .col-6.col-lg-2.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/tema2/img4.svg', style="width: 141px").m-auto
-      .row(titulo="Direccionamiento del monitoreo").justify-content-evenly
+            img(src='@/assets/curso/tema2/img4.svg')
+      .row(titulo="Direccionamiento del monitoreo").justify-content-evenly.align-items-center
         .col-lg-8.mb-4.mb-md-0
           p Direccionamiento del monitoreo: las técnicas de monitoreo están direccionadas a la medición de variables financieras y productivas de la empresa, pues su función es recoger, interpretar y realizar seguimiento de cada acción del proceso en la producción.
-        .col-lg-2
+        .col-6.col-lg-2.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/tema2/img5.svg', style="width: 141px").m-auto
-      .row(titulo="Toma de decisiones").justify-content-evenly
+            img(src='@/assets/curso/tema2/img5.svg')
+      .row(titulo="Toma de decisiones").justify-content-evenly.align-items-center
         .col-lg-8.mb-4.mb-md-0
           p Toma de decisiones: el monitoreo, además de evidenciar los indicadores y los procesos que determinan el estado del proyecto, favorece la toma de decisiones oportunas para el crecimiento del nivel competitivo de la empresa o finca.
-        .col-lg-2
+        .col-6.col-lg-2.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/tema2/img6.svg', style="width: 141px").m-auto
+            img(src='@/assets/curso/tema2/img6.svg')
     .row.justify-content-center.mb-5
       .col-lg-10
         .cajon.color-primario.p-4
@@ -144,7 +144,7 @@
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
         p.mt-5(data-aos="fade-right") Son resultados medibles de los insumos, acciones y procesos, los cuales muestran a una empresa, los logros, avances y posibilidades de mejora continua, todo ello, mediante el análisis de los mismos.
-        .cajon.color-primario.p-4
+        .cajon.color-primario.p-4.mb-5
           p.mb-0 Los indicadores de gestión marcan, entre otras, la viabilidad, el estado financiero y administrativo de la empresa, asegurando la satisfacción del cliente y de las partes interesadas.
       .col-lg-4
         figure.mb-5
@@ -202,7 +202,7 @@
           .col-auto.mb-4.mb-lg-0
             figure
               img(src='@/assets/curso/tema2/img23.svg', style="width: 200px").m-auto
-          .col-8
+          .col-10
             p #[b 01.] Inscripción de predios ante el ICA.
             p #[b 02.] Instalaciones: deben estar acordes al Plan de Ordenamiento Territorial de su municipio (POT).
             p #[b 03.] El predio debe tener registros de ingreso y salida (personas, vehículos y animales) y tener la asistencia del médico veterinario.
@@ -212,7 +212,7 @@
           .col-auto.mb-4.mb-lg-0
             figure
               img(src='@/assets/curso/tema2/img23.svg', style="width: 200px").m-auto
-          .col-8
+          .col-10
             p #[b 05.] Los medicamentos veterinarios deben contar con el registro ICA y deben tener la formula médica por parte del veterinario encargado.
             p #[b 06.] Deben contar con  el Manejo Integral de Plagas (MIP).
             p #[b 07.] A las fuentes hídricas se les debe realizar monitoreo constante.
@@ -221,7 +221,7 @@
           .col-auto.mb-4.mb-lg-0
             figure
               img(src='@/assets/curso/tema2/img23.svg', style="width: 200px").m-auto
-          .col-8
+          .col-10
             p #[b 09.] El personal debe contar con la indumentaria necesaria.
             p #[b 10.] Todos los predios deben tener el registro ICA.
             p #[b 11.] El transporte de los animales debe ser adecuado y con las normas establecidas.
@@ -233,15 +233,15 @@
           p Todos estos documentos y procedimientos permiten al evaluador conocer a fondo, si hay un déficit o problema dentro de las etapas de producción o, si por el contrario, se presentan avances que permiten el alcance de los objetivos planteados.
           .tarjeta.color-primario.p-3
             .row.justify-content-around.align-items-center
-              .col-3.col-sm-2.col-lg-1
-                img(src='@/assets/curso/tema2/img24.svg', style="width: 100px")
+              .col-2.col-sm-2.col-lg-2
+                img(src='@/assets/curso/tema2/img24.svg')
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
                     h3.mb-1 Resolución 068167 de 2020
                     p.text-small Para afianzar su conocimiento con relación a la normativa asociada a la evaluación continua y seguimiento, visite y explore la Resolución No. 068167 de 2020, “por medio de la cual se establecen los requisitos para obtener la certificación en Buenas Prácticas Ganaderas BPG en la producción de carne de bovinos y/o bufalinos”. 
                   .col-sm-auto
-                    a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('downloads/prueba.pdf')" target="_blank")
+                    a.boton.color-acento-contenido.texto-blanco(:href="obtenerLink('https://www.ica.gov.co/getattachment/db5b53ff-0752-4884-90b8')" target="_blank")
                       span(style="color: #12263F !important") Descargar
                       i.fas.fa-file-download(style="color: #12263F !important")
 

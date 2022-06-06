@@ -7,14 +7,14 @@
       .titulo-principal__numero
         span 3
       h1 Trazabilidad
-    .row.justify-content-center.align-itmes-center.mb-5(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-6
         .dual-txt-deco
           p(data-aos="fade-right")(style="position: relative; z-index: 1;") Consiste en todos aquellos procedimientos que favorecen conocer las condiciones del proceso de producción de la finca ganadera hasta la fase final del producto para el consumo humano; procedimientos sistemáticos que se llevan a cabo durante cada una de sus etapas de producción, transformación y comercialización.
-        .row.align-items-center.p-3.bg-color5
+        .row.justify-content-center.align-items-center.mb-5.p-4.bg-color5
           .col-auto
             figure
-              img(data-aos="fade-left")(src='@/assets/curso/tema3/img1.svg', style="width: 90px").m-auto
+              img(data-aos="fade-left")(src='@/assets/curso/tema3/img1.svg', style="width: 100px").m-auto
           .col
             p.mb-0 Mediante la trazabilidad es posible, incluso, la identificación de un animal, de acuerdo con una base de datos que suministra la información correspondiente, desde su nacimiento hasta su sacrificio y de sus subproductos a lo largo de la cadena productiva.
       .col-lg-4
