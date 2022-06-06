@@ -19,11 +19,12 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+    Separador
     #t_2_1.pt-5
     .titulo-segundo.color-secundario(data-aos="fade-right")
       h2 2.1 Tipo y técnicas de evaluación y monitoreo
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-6.mb-4.mb-lg-0
+      .col-lg-6.mb-5.mb-lg-0
         .dual-txt-deco3
           p(data-aos="fade-right")(style="position: relative; z-index: 1;") La evaluación y monitoreo son un modelo de técnicas que reúnen características esenciales y contribuyen a la aplicación de acciones y actividades que se fomentan en la ganadería de carne. Los modelos de las BPG en Colombia se basan en la implementación y mejora de las actividades ganaderas de países más desarrollados, puesto que a nivel nacional se presenta un déficit en el sector agropecuario que no le permite la creación de un modelo único ganadero.
       .col-lg-4
@@ -31,43 +32,43 @@
           img(data-aos="fade-left")(src='@/assets/curso/tema2/img1.svg', style="width: 350px").m-auto
     p.mb-5 En cuanto a las técnicas de evaluación y monitoreo tenga presente:
     AcordionA(data-aos="fade-right").mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--amarilla")
-      .row(titulo="BPG").justify-content-center
+      .row(titulo="BPG").justify-content-evenly.align-items-center
         .col-lg-8.mb-4.mb-md-0
           p BPG: las empresas y fincas ganaderas deben aplicar las Buenas Prácticas Ganaderas para aspirar al proceso de certificación del ICA.
-        .col-lg-2
+        .col-lg-2.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/tema2/img2.svg', style="width: 80px").m-auto
-      .row(titulo="Refuerzo del proceso productivo").justify-content-center
+            img(src='@/assets/curso/tema2/img2.svg')
+      .row(titulo="Refuerzo del proceso productivo").justify-content-evenly.align-items-center
         .col-lg-8.mb-4.mb-md-0
           p Refuerzo del proceso productivo: los tipos de monitoreo y evaluación sirven de apoyo para la recolección sistemática de información de las BPG durante el desarrollo del proyecto.
         .col-lg-2
           figure
-            img(src='@/assets/curso/tema2/img3.svg', style="width: 80px").m-auto
-      .row(titulo="Clasificación del propósito").justify-content-center
+            img(src='@/assets/curso/tema2/img3.svg', style="width: 141px").m-auto
+      .row(titulo="Clasificación del propósito").justify-content-evenly
         .col-lg-8.mb-4.mb-md-0
           p Tanto el monitoreo como la evaluación permiten la clasificación del propósito y la relación costo beneficio de la empresa de carne bovina.
         .col-lg-2
           figure
-            img(src='@/assets/curso/tema2/img4.svg', style="width: 80px").m-auto
-      .row(titulo="Direccionamiento del monitoreo").justify-content-center
+            img(src='@/assets/curso/tema2/img4.svg', style="width: 141px").m-auto
+      .row(titulo="Direccionamiento del monitoreo").justify-content-evenly
         .col-lg-8.mb-4.mb-md-0
           p Direccionamiento del monitoreo: las técnicas de monitoreo están direccionadas a la medición de variables financieras y productivas de la empresa, pues su función es recoger, interpretar y realizar seguimiento de cada acción del proceso en la producción.
         .col-lg-2
           figure
-            img(src='@/assets/curso/tema2/img5.svg', style="width: 80px").m-auto
-      .row(titulo="Toma de decisiones").justify-content-center
+            img(src='@/assets/curso/tema2/img5.svg', style="width: 141px").m-auto
+      .row(titulo="Toma de decisiones").justify-content-evenly
         .col-lg-8.mb-4.mb-md-0
           p Toma de decisiones: el monitoreo, además de evidenciar los indicadores y los procesos que determinan el estado del proyecto, favorece la toma de decisiones oportunas para el crecimiento del nivel competitivo de la empresa o finca.
         .col-lg-2
           figure
-            img(src='@/assets/curso/tema2/img6.svg', style="width: 80px").m-auto
+            img(src='@/assets/curso/tema2/img6.svg', style="width: 141px").m-auto
     .row.justify-content-center.mb-5
       .col-lg-10
         .cajon.color-primario.p-4
           .row.align-items-center
             .col-auto
               figure
-                img(src='@/assets/curso/tema2/img7.svg', style="width: 80px").m-auto
+                img(src='@/assets/curso/tema2/img7.svg', style="width: 90px").m-auto
             .col
               p.mb-0 Las variables de evaluación de la cadena productiva de ganado de carne son pilares fundamentales del correcto funcionamiento de la empresa ganadera, ayudan a direccionar el establecimiento al buen manejo y cumplimiento de BPG en la ganadería de carne colombiana.
     p.mb-5 Reconozca, a continuación, los tipos de técnicas de evaluación y monitoreo aplicables en el proceso de producción de bovinos de carne:
@@ -140,20 +141,20 @@
     #t_2_3
     .titulo-segundo.color-secundario(data-aos="fade-right")
       h2 2.3 Indicadores de gestión
-    .row.aligm.items-center
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-8
-        p(data-aos="fade-right") Son resultados medibles de los insumos, acciones y procesos, los cuales muestran a una empresa, los logros, avances y posibilidades de mejora continua, todo ello, mediante el análisis de los mismos.
+        p.mt-5(data-aos="fade-right") Son resultados medibles de los insumos, acciones y procesos, los cuales muestran a una empresa, los logros, avances y posibilidades de mejora continua, todo ello, mediante el análisis de los mismos.
         .cajon.color-primario.p-4
           p.mb-0 Los indicadores de gestión marcan, entre otras, la viabilidad, el estado financiero y administrativo de la empresa, asegurando la satisfacción del cliente y de las partes interesadas.
       .col-lg-4
         figure.mb-5
           img(data-aos="fade-left")(src='@/assets/curso/tema2/img17.svg', style="width: 450px").m-auto
-    TabsC.color-primario.mb-5(data-aos="fade-left")
+    TabsC.color-primario.mb-5(data-aos="fade-left").modif
       .py-3.py-md-4(titulo="¡Atención!").bg-color3
         .row
           .col-12.p-4
             p.text-center.mb-0 Los indicadores de gestión de las BPG, están articuladas con las normativas vigentes implementadas en Colombia y el mundo.
-      .py-3.py-md-4(titulo="¡Importante!").bg-color3
+      .py-5.py-md-4(titulo="¡Importante!").bg-color3.p-4
         .row
           .col-12.p-4
             p.text-center.mb-0 A partir de la normativa, se siguen lineamientos para el desarrollo organizado y continuo de las diferentes facetas de producción de carne bovina, hasta llegar al consumidor final.
@@ -197,7 +198,7 @@
     p.text-center.mb-5 Los procedimientos para la #[b certificación de BPG en bovinos de carne] son:
     .tarjeta.tarjeta--amarilla3.p-4.mb-5
       SlyderA(tipo="b")
-        .row.align-items-center.justify-content-center
+        .row.justify-content-evenly
           .col-auto.mb-4.mb-lg-0
             figure
               img(src='@/assets/curso/tema2/img23.svg', style="width: 200px").m-auto
@@ -207,7 +208,7 @@
             p #[b 03.] El predio debe tener registros de ingreso y salida (personas, vehículos y animales) y tener la asistencia del médico veterinario.
             p #[b 04.] Las instalaciones deben estar adecuadas en pro del bienestar animal y de los operarios.
             p Deben tener una identificación individual, registros con novedades sanitarias, productivas y de medicamentos e insumos veterinarios.
-        .row.align-items-center.justify-content-center
+        .row.justify-content-evenly
           .col-auto.mb-4.mb-lg-0
             figure
               img(src='@/assets/curso/tema2/img23.svg', style="width: 200px").m-auto
@@ -216,7 +217,7 @@
             p #[b 06.] Deben contar con  el Manejo Integral de Plagas (MIP).
             p #[b 07.] A las fuentes hídricas se les debe realizar monitoreo constante.
             p #[b 08.] Se debe realizar exámenes anuales al personal, capacitación de seguridad y riesgos ocupacionales.
-        .row.align-items-center.justify-content-center
+        .row.justify-content-evenly
           .col-auto.mb-4.mb-lg-0
             figure
               img(src='@/assets/curso/tema2/img23.svg', style="width: 200px").m-auto
@@ -233,7 +234,7 @@
           .tarjeta.color-primario.p-3
             .row.justify-content-around.align-items-center
               .col-3.col-sm-2.col-lg-1
-                img(src="@/assets/curso/tema2/img24.svg")
+                img(src='@/assets/curso/tema2/img24.svg', style="width: 100px")
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0

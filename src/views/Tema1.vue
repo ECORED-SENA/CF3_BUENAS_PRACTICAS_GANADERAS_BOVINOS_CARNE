@@ -7,14 +7,14 @@
       .titulo-principal__numero
         span 1
       h1 Contingencias
-    .row.justify-content-center.mb-5(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-5.mb-4.mb-lg-0
         .dual-txt-deco
           p(style="position: relative; z-index: 1;") Son acciones en respuesta a un suceso que puede o no presentarse en un futuro. Se pueden implementar para promover y materializar una meta y estas pueden tener resultados positivos o negativos, dependiendo de la estrategia implementada por parte del ganadero o el equipo de trabajo de la finca.
           p #[b Dentro de los elementos más destacados que se deben tener en cuenta, relacionados con las contingencias, se encuentran:]
       .col-lg-5
         figure
-          img(src='@/assets/curso/tema1/img1.png', style="width: 350px").m-auto
+          img(src='@/assets/curso/tema1/img1.png')
     SlyderB.mb-5(:datos="datosSlyder")(data-aos="fade-right")
     p.mb-5 Los siguientes son los pasos que se deben seguir para la preparación de una ruta de contingencia:
     .row.align-items-center.mb-5
