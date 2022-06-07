@@ -37,25 +37,25 @@
           p BPG: las empresas y fincas ganaderas deben aplicar las Buenas Prácticas Ganaderas para aspirar al proceso de certificación del ICA.
         .col-6.col-lg-2.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/tema2/img2.svg')
+            img(src='@/assets/curso/tema2/img2.svg', style="width: 141px").m-auto
       .row(titulo="Refuerzo del proceso productivo").justify-content-evenly.align-items-center
         .col-lg-8.mb-4.mb-md-0
           p Refuerzo del proceso productivo: los tipos de monitoreo y evaluación sirven de apoyo para la recolección sistemática de información de las BPG durante el desarrollo del proyecto.
         .col-6.col-lg-2.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/tema2/img3.svg')
+            img(src='@/assets/curso/tema2/img3.svg', style="width: 141px").m-auto
       .row(titulo="Clasificación del propósito").justify-content-evenly.align-items-center
         .col-lg-8.mb-4.mb-md-0
           p Tanto el monitoreo como la evaluación permiten la clasificación del propósito y la relación costo beneficio de la empresa de carne bovina.
         .col-6.col-lg-2.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/tema2/img4.svg')
+            img(src='@/assets/curso/tema2/img4.svg', style="width: 141px").m-auto
       .row(titulo="Direccionamiento del monitoreo").justify-content-evenly.align-items-center
         .col-lg-8.mb-4.mb-md-0
           p Direccionamiento del monitoreo: las técnicas de monitoreo están direccionadas a la medición de variables financieras y productivas de la empresa, pues su función es recoger, interpretar y realizar seguimiento de cada acción del proceso en la producción.
         .col-6.col-lg-2.mb-4.mb-md-0
           figure
-            img(src='@/assets/curso/tema2/img5.svg')
+            img(src='@/assets/curso/tema2/img5.svg', style="width: 141px").m-auto
       .row(titulo="Toma de decisiones").justify-content-evenly.align-items-center
         .col-lg-8.mb-4.mb-md-0
           p Toma de decisiones: el monitoreo, además de evidenciar los indicadores y los procesos que determinan el estado del proyecto, favorece la toma de decisiones oportunas para el crecimiento del nivel competitivo de la empresa o finca.
@@ -196,32 +196,32 @@
         .dual-txt-deco3
           p(data-aos="fade-left")(style="position: relative; z-index: 1;") Son técnicas para llevar a cabo una evaluación continua y seguimiento sistemático de información, acorde a los objetivos que tenga planteada la empresa ganadera.
     p.text-center.mb-5 Los procedimientos para la #[b certificación de BPG en bovinos de carne] son:
-    .tarjeta.tarjeta--amarilla3.p-4.mb-5
+    .tarjeta.tarjeta--amarilla3.p-5.mb-5
       SlyderA(tipo="b")
         .row.justify-content-evenly
-          .col-auto.mb-4.mb-lg-0
+          .col-lg-3
             figure
               img(src='@/assets/curso/tema2/img23.svg', style="width: 200px").m-auto
-          .col-10
+          .col-lg-9
             p #[b 01.] Inscripción de predios ante el ICA.
             p #[b 02.] Instalaciones: deben estar acordes al Plan de Ordenamiento Territorial de su municipio (POT).
             p #[b 03.] El predio debe tener registros de ingreso y salida (personas, vehículos y animales) y tener la asistencia del médico veterinario.
             p #[b 04.] Las instalaciones deben estar adecuadas en pro del bienestar animal y de los operarios.
             p Deben tener una identificación individual, registros con novedades sanitarias, productivas y de medicamentos e insumos veterinarios.
-        .row.justify-content-evenly
-          .col-auto.mb-4.mb-lg-0
+        .row.justify-content-evenly.aling-items-center
+          .col-lg-3
             figure
               img(src='@/assets/curso/tema2/img23.svg', style="width: 200px").m-auto
-          .col-10
+          .col-lg-9
             p #[b 05.] Los medicamentos veterinarios deben contar con el registro ICA y deben tener la formula médica por parte del veterinario encargado.
             p #[b 06.] Deben contar con  el Manejo Integral de Plagas (MIP).
             p #[b 07.] A las fuentes hídricas se les debe realizar monitoreo constante.
             p #[b 08.] Se debe realizar exámenes anuales al personal, capacitación de seguridad y riesgos ocupacionales.
         .row.justify-content-evenly
-          .col-auto.mb-4.mb-lg-0
+          .col-lg-3
             figure
               img(src='@/assets/curso/tema2/img23.svg', style="width: 200px").m-auto
-          .col-10
+          .col-lg-9
             p #[b 09.] El personal debe contar con la indumentaria necesaria.
             p #[b 10.] Todos los predios deben tener el registro ICA.
             p #[b 11.] El transporte de los animales debe ser adecuado y con las normas establecidas.
@@ -233,8 +233,8 @@
           p Todos estos documentos y procedimientos permiten al evaluador conocer a fondo, si hay un déficit o problema dentro de las etapas de producción o, si por el contrario, se presentan avances que permiten el alcance de los objetivos planteados.
           .tarjeta.color-primario.p-3
             .row.justify-content-around.align-items-center
-              .col-2.col-sm-2.col-lg-2
-                img(src='@/assets/curso/tema2/img24.svg')
+              .col-12.col-sm-2.col-lg-2
+                img(src='@/assets/curso/tema2/img24.svg', style="width: 100px").m-auto
               .col
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
