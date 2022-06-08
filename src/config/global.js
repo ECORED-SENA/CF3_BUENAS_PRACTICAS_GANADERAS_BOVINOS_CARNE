@@ -172,7 +172,7 @@ export default {
     {
       termino: 'ICA',
       significado:
-        'Instituto Colombiano Agropecuario, entidad pública del orden nacional con personería jurídica, autonomía administrativa y patrimonio independiente, perteneciente al Sistema Nacional de Ciencia y Tecnología, adscrita al Ministerio de Agricultura y Desarrollo Rural.',
+        ' Instituto Colombiano Agropecuario, entidad pública del orden nacional con personería jurídica, autonomía administrativa y patrimonio independiente, perteneciente al Sistema Nacional de Ciencia y Tecnología, adscrita al Ministerio de Agricultura y Desarrollo Rural.',
     },
     {
       termino: 'Impacto',
@@ -259,6 +259,27 @@ export default {
         cargo: 'Asesor metodológico y pedagógico',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'James Dubán Lozano Cuellar',
+        cargo: 'Experto temático',
+        centro: 'Centro Agropecuario la Granja Regional Tolima',
+      },
+      {
+        nombre: 'Fabián Leonardo Correa Díaz',
+        cargo: 'Asesor metodológico y pedagógico',
+        centro:
+          'Centro de la Industria, la Empresa y los Servicios Regional Norte de Santander',
+      },
+      {
+        nombre: 'Ana Catalina Córdoba Sus',
+        cargo: 'Asesora metodológica',
+        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
+      },
+      {
+        nombre: 'Julia Isabel Roberto',
+        cargo: 'Correctora de estilo',
+        centro: 'Centro de Diseño y Metrología Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [

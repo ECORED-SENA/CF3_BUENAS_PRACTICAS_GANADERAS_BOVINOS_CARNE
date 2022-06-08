@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-6
         .dual-txt-deco
-          p(data-aos="fade-right")(style="position: relative; z-index: 1;") Consiste en todos aquellos procedimientos que favorecen conocer las condiciones del proceso de producción de la finca ganadera hasta la fase final del producto para el consumo humano; procedimientos sistemáticos que se llevan a cabo durante cada una de sus etapas de producción, transformación y comercialización.
+          p(data-aos="fade-right")(style="position: relative; z-index: 1;") Consiste en todos aquellos procedimientos que favorecen las condiciones del proceso de producción de la finca ganadera hasta la fase final del producto para el consumo humano; procedimientos sistemáticos que se llevan a cabo durante cada una de sus etapas de producción, transformación y comercialización.
         .row.justify-content-center.align-items-center.mb-5.p-4.bg-color5
           .col-auto
             figure

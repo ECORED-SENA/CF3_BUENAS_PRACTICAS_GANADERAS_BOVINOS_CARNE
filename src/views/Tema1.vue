@@ -97,7 +97,7 @@ export default {
       {
         titulo: 'Acciones y estrategias',
         texto:
-          'Dada la probabilidad de situaciones que afecten positiva o negativamente la producción, las BPG establecen acciones y estrategias para su manejo, enfocadas al mejoramiento, producción y comercializaciones del producto final.',
+          'Dada la probabilidad de situaciones que afecten positiva o negativamente la producción, las BPG establecen acciones y estrategias para su manejo, enfocadas al mejoramiento, producción y comercialización del producto final.',
         imagen: require('@/assets/curso/tema1/img3.png'),
       },
       {

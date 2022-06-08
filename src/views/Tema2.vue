@@ -242,7 +242,7 @@
                     h3.mb-1 Resolución 068167 de 2020
                     p.text-small Para afianzar su conocimiento con relación a la normativa asociada a la evaluación continua y seguimiento, visite y explore la Resolución No. 068167 de 2020, “por medio de la cual se establecen los requisitos para obtener la certificación en Buenas Prácticas Ganaderas BPG en la producción de carne de bovinos y/o bufalinos”. 
                   .col-sm-auto
-                    a.boton.color-acento-botones.me-3.mg4(href="https://www.ica.gov.co/getattachment/db5b53ff-0752-4884-90b8-" target="_blank").mb-0
+                    a.boton.color-acento-botones.me-3.mg4(href="https://www.ica.gov.co/getattachment/db5b53ff-0752-4884-90b8-a7ce15ce1ead/2020R68167.aspx" target="_blank").mb-0
                       span(style="color: #12263F !important") Ver más
                      
 </template>
