@@ -211,30 +211,36 @@ export default {
   ],
   complementario: [
     {
-      texto: 'Mtra. Marcia ATP. (2021). PEMC. Seguimiento y evaluación ”',
+      tema: 'Seguimiento y evaluación',
+      referencia: 'Mtra. Marcia ATP. (2021). PEMC. Seguimiento y evaluación',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Nnz2yv27PCo',
     },
     {
-      texto:
+      tema: 'Contingencia',
+      referencia:
         'Procem Consultores. (2020). Cómo elaborar un plan de contingencia ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=HOEPtwPPRaw',
     },
     {
-      texto:
+      tema: 'Indicadores de gestión ',
+      referencia:
         'Procem Consultores. (2019). ¿Qué son los indicadores de gestión? ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=ON2_v7GrDE0',
     },
     {
-      texto:
+      tema: 'Trazabilidad ',
+      referencia:
         'Instituto Colombiano Agropecuario. (2021). ICA - Recuperación de la trazabilidad bovina ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=JqUQA8U9koE',
     },
     {
-      texto: 'La finca de hoy. (2019). Trazabilidad en producción cárnica ',
+      tema: 'Trazabilidad',
+      referencia:
+        'La finca de hoy. (2019). Trazabilidad en producción cárnica ',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=Y65Fr10l3NM',
     },
@@ -242,7 +248,7 @@ export default {
   creditos: {
     liderEquipo: [
       {
-        nombre: 'Maria Camila Garcia Santamaria',
+        nombre: 'María Camila García Santamaría',
         cargo: 'Líder del equipo',
         centro: 'Dirección General',
       },
@@ -263,19 +269,19 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Leyson Fabian Castaño Perez',
+        nombre: 'Leyson Fabían Castaño Pérez',
         cargo: 'Soporte organizacional',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: 'Maria Natalia Maldonado Delgado',
+        nombre: 'María Natalia Maldonado Delgado',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
         nombre: 'Sandra Milena Triana Pinto',
-        cargo: 'Desarrollo Front-End',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
@@ -297,7 +303,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'María Eugenia Mejía López',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',

@@ -39,20 +39,20 @@
                 td.ps-5(style="background-color: #FEE793") #[b Trazabilidad interna]
                 td.ps-5(style="background-color: #C8E5BE") #[b Trazabilidad hacia delante]
               tr
-                td.ps-5(style="background-color: #DFF6F4") De quién recibe el producto.
-                td.ps-5(style="background-color: #FFF4CE") Cuándo dividió, mezcló o cambió el producto con otro.
-                td.ps-5(style="background-color: #E5F3E1") A qué cliente se le entregó el producto.
+                td.ps-5(style="background-color: #DFF6F4") ¿De quién recibe el producto?
+                td.ps-5(style="background-color: #FFF4CE") ¿Cuándo dividió, mezcló o cambió el producto con otro?
+                td.ps-5(style="background-color: #E5F3E1") ¿A qué cliente se le entregó el producto?
               tr
-                td.ps-5(style="background-color: #CDF8F5") Qué producto se recibió.
-                td.ps-5(style="background-color: #FFF0B9") Qué se creó con el producto.
-                td.ps-5(style="background-color: #DDEFD7") A qué cliente se le vendió el producto.
+                td.ps-5(style="background-color: #CDF8F5") ¿Qué producto se recibió?
+                td.ps-5(style="background-color: #FFF0B9") ¿Qué se creó con el producto?
+                td.ps-5(style="background-color: #DDEFD7") ¿A qué cliente se le vendió el producto?
               tr
-                td.ps-5(style="background-color: #DFF6F4") Cuándo se recibió el producto.
-                td.ps-5(style="background-color: #FFF4CE") A partir de qué producto se creó el otro producto.
-                td.ps-5(style="background-color: #E5F3E1") Cuándo se le vendió el producto final al cliente.
+                td.ps-5(style="background-color: #DFF6F4") ¿Cuándo se recibió el producto?
+                td.ps-5(style="background-color: #FFF4CE") ¿A partir de qué producto se creó el otro producto?
+                td.ps-5(style="background-color: #E5F3E1") ¿Cuándo se le vendió el producto final al cliente?
               tr
-                td.ps-5(style="background-color: #CDF8F5") Para qué es el producto.
-                td.ps-5(style="background-color: #FFF0B9") Cuál es el producto final.
+                td.ps-5(style="background-color: #CDF8F5") ¿Para qué es el producto?
+                td.ps-5(style="background-color: #FFF0B9") ¿Cuál es el producto final?
                 td(style="background-color: #DDEFD7")
 
 </template>

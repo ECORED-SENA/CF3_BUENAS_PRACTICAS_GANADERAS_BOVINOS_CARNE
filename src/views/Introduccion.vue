@@ -8,7 +8,7 @@
         span
           i.fas.fa-info
       h1 Introducción
-    p.mb-5(data-aos="fade-right") Se da la bienvenida al componente formativo “Evaluación y monitoreo en la implementación de BPG para bovinos de carne”; para comenzar explore el recurso que se muestra a continuación.
+    p.mb-5(data-aos="fade-right") Se da la bienvenida al componente formativo “Evaluación y monitoreo en la implementación de BPG para bovinos de carne”; para comenzar explore el recurso que se muestra a continuación. #[b ¡Adelante!]
     figure
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)

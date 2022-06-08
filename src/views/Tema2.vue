@@ -46,7 +46,7 @@
             img(src='@/assets/curso/tema2/img3.svg', style="width: 141px").m-auto
       .row(titulo="Clasificación del propósito").justify-content-evenly.align-items-center
         .col-lg-8.mb-4.mb-md-0
-          p Tanto el monitoreo como la evaluación permiten la clasificación del propósito y la relación costo beneficio de la empresa de carne bovina.
+          p Clasificación del propósito: Tanto el monitoreo como la evaluación permiten la clasificación del propósito y la relación costo beneficio de la empresa de carne bovina.
         .col-6.col-lg-2.mb-4.mb-md-0
           figure
             img(src='@/assets/curso/tema2/img4.svg', style="width: 141px").m-auto
@@ -78,37 +78,37 @@
           .col-8
             img(src='@/assets/curso/tema2/img9.svg' alt='AvatarTop')
         p.text-center #[b 1. Evaluación de resultados]
-        p.text-center Mide los resultados a corto y largo plazo del proyecto. #[span.txt-deco1 -------------]
+        p Mide los resultados a corto y largo plazo del proyecto. #[span.txt-deco1 -------------]
       .tarjeta.color-acento-botones.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/tema2/img10.svg' alt='AvatarTop')
         p.text-center #[b 2. Evaluación de impacto]
-        p.text-center Mide la diferencia entre un programa implementado y uno sin implementar.
+        p Mide la diferencia entre un programa implementado y uno sin implementar.
       .tarjeta.color-acento-botones.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/tema2/img11.svg' alt='AvatarTop')
         p.text-center #[b 3. Evaluación productiva]
-        p.text-center Se enfoca en las estadísticas de producción de la empresa. #[span.txt-deco1 -------------]
+        p Se enfoca en las estadísticas de producción de la empresa. #[span.txt-deco1 -------------]
       .tarjeta.color-acento-botones.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/tema2/img12.svg' alt='AvatarTop')
         p.text-center #[b 4. Evaluación de calidad]
-        p.text-center Permite conocer si el producto cumple con los estándares de calidad.
+        p Permite conocer si el producto cumple con los estándares de calidad.
       .tarjeta.color-acento-botones.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/tema2/img13.svg' alt='AvatarTop')
         p.text-center #[b 5. Estados financieros]
-        p.text-center Permiten conocer la parte administrativa y económica de la empresa.
+        p Permiten conocer la parte administrativa y económica de la empresa.
       .tarjeta.color-acento-botones.p-4.h-100
         .row.justify-content-center.mb-3
           .col-8
             img(src='@/assets/curso/tema2/img14.svg' alt='AvatarTop')
         p.text-center #[b 6. Solución de problemas]
-        p.text-center Fase en la que se busca identificar una problemática y buscar una solución temprana.
+        p Fase en la que se busca identificar una problemática y buscar una solución temprana.
     Separador
     #t_2_2
     .titulo-segundo.color-secundario(data-aos="fade-right")
@@ -123,20 +123,21 @@
     .titulo-sexto.color-acento-contenido
       p.mb-0 #[b Figura 2]. BPG-VC en la producción.
     figure.mb-5
-      img(src='@/assets/curso/tema2/img15.svg', style="width: 1250px").m-auto
+      img.mb-3(src='@/assets/curso/tema2/img15.svg', style="width: 1250px").m-auto
+      figcaption Nota. Tomado de https://www.crea.org.ar/wp-content/uploads/2020/04/BPGanaderia.png
     p.mb-5 Para el desarrollo y aplicación de las metodologías en el marco de las BPG es importante tener en cuenta los siguientes lineamientos:
     ImagenInfografica.color-secundario.mb-5
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/tema2/img16.svg')(data-aos="fade-right")
       .tarjeta.tarjeta--amarilla2.p-3(x="12%" y="100%" numero="+")
-        p.mb-0 Es una recopilación de información, correspondiente a manuales, normas, documentos y certificaciones de toda la cadena productiva de carne, con la cual se hace un comparativo entre BPG y lo que se está implementando en la empresa. Luego se buscan mejoras y se realizan los ajustes para cumplir con todo lo exigido.
-      .tarjeta.tarjeta--amarilla2.p-3(x="38%" y="100%" numero="+")
         p.mb-0 Se realizan visitas al predio, con el fin de identificar las fortalezas y debilidades encontradas en la trazabilidad, alimentación, sanidad y transporte. Con ello se diagnostica el estado actual de producción de la empresa.
+      .tarjeta.tarjeta--amarilla2.p-3(x="38%" y="100%" numero="+")
+        p.mb-0 Es una recopilación de información, correspondiente a manuales, normas, documentos y certificaciones de toda la cadena productiva de carne, con la cual se hace un comparativo entre BPG y lo que se está implementando en la empresa. Luego se buscan mejoras y se realizan los ajustes para cumplir con todo lo exigido.
       .tarjeta.tarjeta--amarilla2.p-3(x="63%" y="100%" numero="+")
         p.mb-0 Se ponen en práctica las mejoras diagnosticadas, se realiza una junta en la que se revisa el plan de acción y se le da visto bueno, entonces, se adecua un cronograma de capacitación e implementación de herramientas.
       .tarjeta.tarjeta--amarilla2.p-3(x="88%" y="100%" numero="+")
-        p.mb-0 Después de implementar las BPG se realiza la evaluación; esta ofrece la información correspondiente y se verifica el cumplimiento de los objetivos cada tres o seis meses, ya que esta suele encontrarse en constante cambio.
+        p.mb-0 Después de implementar las BPG se realiza la evaluación; esta ofrece la información correspondiente y se verifica el cumplimiento de los objetivos cada tres o seis meses, ya que ésta suele encontrarse en constante cambio.
     Separador
     #t_2_3
     .titulo-segundo.color-secundario(data-aos="fade-right")
@@ -213,7 +214,7 @@
             figure
               img(src='@/assets/curso/tema2/img23.svg', style="width: 200px").m-auto
           .col-lg-9
-            p #[b 05.] Los medicamentos veterinarios deben contar con el registro ICA y deben tener la formula médica por parte del veterinario encargado.
+            p #[b 05.] Los medicamentos veterinarios deben contar con el registro ICA y deben tener la fórmula médica por parte del veterinario encargado.
             p #[b 06.] Deben contar con  el Manejo Integral de Plagas (MIP).
             p #[b 07.] A las fuentes hídricas se les debe realizar monitoreo constante.
             p #[b 08.] Se debe realizar exámenes anuales al personal, capacitación de seguridad y riesgos ocupacionales.
@@ -242,7 +243,7 @@
                     p.text-small Para afianzar su conocimiento con relación a la normativa asociada a la evaluación continua y seguimiento, visite y explore la Resolución No. 068167 de 2020, “por medio de la cual se establecen los requisitos para obtener la certificación en Buenas Prácticas Ganaderas BPG en la producción de carne de bovinos y/o bufalinos”. 
                   .col-sm-auto
                     a.boton.color-acento-botones.me-3.mg4(href="https://www.ica.gov.co/getattachment/db5b53ff-0752-4884-90b8-" target="_blank").mb-0
-                      span(style="color: #12263F !important") Descargar
+                      span(style="color: #12263F !important") Ver más
                      
 </template>
 
