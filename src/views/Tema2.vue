@@ -18,7 +18,7 @@
           p.mb-0 A continuación, se presentan los objetivos más importantes de la evaluación y el seguimiento en los procesos de producción de bovinos de carne en el marco de las BPG:
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/QwbeBx37_uk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     Separador
     #t_2_1.pt-5
     .titulo-segundo.color-secundario(data-aos="fade-right")

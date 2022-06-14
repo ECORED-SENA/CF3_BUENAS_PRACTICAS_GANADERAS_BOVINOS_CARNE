@@ -23,7 +23,7 @@
     p.mb-5 Visualice con atención el siguiente video y profundice en los aspectos generales y claves de la trazabilidad en el marco de las BPG para bovinos de carne:
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/NBzL5_cUwII" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-5 Ahora, en la siguiente tabla identifique los tipos de trazabilidad aplicables a los procesos de BPG y analice los elementos que los detallan:
     .row.justify-content-center(data-aos="fade-right")
       .col-lg-10
