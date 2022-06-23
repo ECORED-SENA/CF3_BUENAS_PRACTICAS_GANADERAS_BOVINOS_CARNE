@@ -132,7 +132,7 @@ export default {
     },
     {
       referencia:
-        'Instituto Colombiano Agropecuario. (s.f.). Reglamento sobre las condiciones sanitarias y de inocuidad en la producción de ganado bovino y porcino. ICA. ',
+        'Instituto Colombiano Agropecuario. (s.f.). Reglamentación sobre las condiciones sanitarias y de inocuidad en la producción primaria de ganado bovino y porcino. ICA.',
       link:
         'https://www.ica.gov.co/getdoc/016f3c96-a458-4fa6-ae96-41d18b2221f5/requisitos-sanitarios-y-de-inocuidad-en-la-producc.aspx',
     },
